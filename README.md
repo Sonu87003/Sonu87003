@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a dedicated and detail-oriented Quality Analys
 ## 📫 Let's Connect!
 - 📧 Email: rajput.sonu8700@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/sonu-rajput](https://www.linkedin.com/in/sonu-rajput-957788225)
-(https://www.hackerrank.com/rajput_sonu8700).
+- 💻 HackerRank: hackerrank.com/rajput_sonu8700
 
 ---
 
