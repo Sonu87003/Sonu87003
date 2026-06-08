@@ -59,6 +59,7 @@ Welcome to my GitHub profile! I'm a detail-oriented Quality Analyst with a stron
 - 👨‍💻 HackerRank: [hackerrank.com/rajput_sonu8700](https://www.hackerrank.com/rajput_sonu8700)
 - 🏆 Kaggle: [kaggle.com/sonurajput8700](https://www.kaggle.com/sonurajput8700)
 - 💻 LeetCode: [leetcode.com/rajput_sonu](https://leetcode.com/u/rajput_sonu)
+- 👨‍🍳 CodeChef: [codechef.com/users/rajput_sonu87](https://www.codechef.com/users/rajput_sonu87)
 
 ---
 
